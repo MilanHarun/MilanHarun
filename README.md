@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![MilanHarun](img/Screenshot%202025-08-23%20201219.png)
+
 <!--
 **MilanHarun/MilanHarun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on **@MilanHarun**
+ 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framwork
+ -😊
+ ![Hi](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZngwaWNqYnM1enpwMGlxbHI3YmdmcTJiOGc2aWNvdmR5b3VybXAweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/elPt1FL04JjHjrd2k0/giphy.gif)
